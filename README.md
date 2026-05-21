@@ -11,4 +11,3 @@ Organize the falling blocks into the current debug pattern before the stack over
 - `style.css` - the game formatting and styling
 
 Learning GitHub
-
